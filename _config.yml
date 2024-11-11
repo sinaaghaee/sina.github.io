@@ -1,0 +1,18 @@
+title: "Sina Aghaee"
+email: "sinaaghaee21@gmail.com"
+description: "Ph.D. Student at Texas A&M University | Industrial & Systems Engineering"
+theme: jekyll-theme-minimal
+url: "https://yourusername.github.io"  # Update with your GitHub Pages URL
+baseurl: "/your-repo-name"  # Leave empty if in root
+github_username: yourusername
+
+# Navigation links
+nav:
+  - name: "Home"
+    link: /
+  - name: "About"
+    link: /about
+  - name: "Experience"
+    link: /experience
+  - name: "Contact"
+    link: /contact
